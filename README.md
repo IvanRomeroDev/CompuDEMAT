@@ -40,8 +40,8 @@ Felicidades, ya eres un colaborador y puedes comenzar a realizar aportes o moder
 
 # Colaboradores Actuales:
 
-- [RomeroDev (Iván R).] (https://github.com/IvanRomeroDev)
+- [RomeroDev (Iván R).](https://github.com/IvanRomeroDev)
 
-- [San1estus (Julian R).] (https://github.com/San1estus)
+- [San1estus (Julian R).](https://github.com/San1estus)
 
--
+- [Cesar1R (Cesar R.)](https://github.com/Cesar1R)
