@@ -3,7 +3,7 @@
 
 
 
-## Qué es CompuDEMAT?
+## ¿Qué es CompuDEMAT?
 
 Este es un repositorio en el que se almacenaran todo tipo de documentos (archivos .c, .tex, .h, documentos de texto, etc) relacionados principalmente con la materia de Elementos de Ciencias de la Computación, aunque, a petición de los usuarios se podría considerar crear categorias dentro del mismo repositorio para material relacionado con otras materias.
 
@@ -12,7 +12,7 @@ Este repositorio no fue creado con la finalidad de pasarse las tareas, examenes,
 
 
 
-## Como puedo aportar?
+## ¿Cómo puedo aportar?
 
 Si quieres aportar cualquier clase de contenido que consideres valioso para el repositorio puedes hacer un Pull Request, y los moderadores lo revisaran para darle el visto bueno y que este pueda quedar almacenado correctamente. El archivo en cuestión debera venir acompañado con un README.md en caso de no ser explicito en su uso o en su manejo.
 
@@ -23,7 +23,7 @@ Si no sabes como realizar un Pull Request o como crear un README.md puedes revis
 [Formato y Sintaxis de un README.md en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## Como puedo formar parte del staff?
+## ¿Cómo puedo formar parte del staff?
 
 Si consideras que tienes tiempo y habilidades suficientes como para moderar/manejar el repositorio, o si simplemente quieres poder realizar aportes sin necesidad de hacer un pull request deberas hacer lo siguiente:
 
@@ -40,8 +40,8 @@ Felicidades, ya eres un colaborador y puedes comenzar a realizar aportes o moder
 
 # Colaboradores Actuales:
 
-- [RomeroDev (Iván R).](https://github.com/IvanRomeroDev)
+- [RomeroDev (Iván R).] (https://github.com/IvanRomeroDev)
 
-- [San1estus (Julian R).](https://github.com/San1estus)
+- [San1estus (Julian R).] (https://github.com/San1estus)
 
 -
