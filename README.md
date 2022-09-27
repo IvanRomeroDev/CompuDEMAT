@@ -33,7 +33,7 @@ Si consideras que tienes tiempo y habilidades suficientes como para moderar/mane
 
 - En caso de querer ser colaborador para apoyar en los labores administrativos del repositorio se realizara una revisión a los aportes anteriores y se pedira un aproximado de la disponibilidad de tiempo.
 
-### Ya realice los pasos anteriores, que prosigue?
+### ¿Ya realice los pasos anteriores, que prosigue?
 
 Felicidades, ya eres un colaborador y puedes comenzar a realizar aportes o moderar los mismos, pero **Ojo** tanto los colaboradores como los no colaboradores pueden realizar quejas sobre tu trabajo, y si se considera que hay suicientes y estas son de peso entonces perderas el privilegio de colaborador. Así que **CUIDADO** y **A COMPARTIR !!!**
 
