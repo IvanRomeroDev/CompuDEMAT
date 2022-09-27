@@ -7,6 +7,9 @@
 
 Este es un repositorio en el que se almacenaran todo tipo de documentos (archivos .c, .tex, .h, documentos de texto, etc) relacionados principalmente con la materia de Elementos de Ciencias de la Computación, aunque, a petición de los usuarios se podría considerar crear categorias dentro del mismo repositorio para material relacionado con otras materias.
 
+# **DISCLAIMER:**
+Este repositorio no fue creado con la finalidad de pasarse las tareas, examenes, etc. El motivo de este repositorio es almacenar nuestros trabajos, darnos feedback, colaborar y crear comunidad, para esto los moderadores tendran ciertos parametros a la hora de aceptar, denegar o aplazar un commit o pull request. Si no estas de acuerdo con lo dicho anteriormente, o no es lo que buscabas, eres libre de irte.
+
 
 
 ## Como puedo aportar?
@@ -32,13 +35,13 @@ Si consideras que tienes tiempo y habilidades suficientes como para moderar/mane
 
 ### Ya realice los pasos anteriores, que prosigue?
 
-Felicidades, ya eres un colaborador y puedes comenzar a realizar aportes o moderar los mismos, pero **Ojo** tanto los colaboradores como los no colaboradores pueden realizar quejas sobre tu trabajo, y si se considera que hay suicientes y estas son de peso entonces perderas el privilegio de colaborador. Así que **CUIDADO** y **A COMPARTIR !!! **
+Felicidades, ya eres un colaborador y puedes comenzar a realizar aportes o moderar los mismos, pero **Ojo** tanto los colaboradores como los no colaboradores pueden realizar quejas sobre tu trabajo, y si se considera que hay suicientes y estas son de peso entonces perderas el privilegio de colaborador. Así que **CUIDADO** y **A COMPARTIR !!!**
 
 
 # Colaboradores Actuales:
 
 - **RomeroDev (Iván R).**
 
--
+- **San1estus (Julian R).**
 
 -
